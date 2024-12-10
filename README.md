@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ömer Ögüt</h1>
-<h3 align="left">A passionate computer engineering student 3rd grade from Turkiye</h3>
+<h3 align="left">A passionate computer engineering student 4th grade from Turkiye</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerogut&label=Profile%20views&color=0e75b6&style=flat" alt="omerogut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerogut" alt="omerogut" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Opencv**
+- 🌱 I’m currently learning **Python, Machine Learning, Opencv**
 
-- 💬 Ask me about **Java, Dart, Python**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **omerogut2002@gmail.com**
 
